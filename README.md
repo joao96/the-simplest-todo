@@ -74,7 +74,7 @@ This project is licensed under the MIT.
 
 <br />
 
-Feito com :green_heart: by [João Victor Poletti](https://github.com/joao96)
+Made with :green_heart: by [João Victor Poletti](https://github.com/joao96)
 
 
 [nodejs]: https://nodejs.org/
